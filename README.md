@@ -1,3 +1,3 @@
 # Demo-python
 first Git Repository
-Author - Aadit Chauhan
+Author - Aadit
